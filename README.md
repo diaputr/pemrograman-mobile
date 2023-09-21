@@ -1,25 +1,8 @@
-<<<<<<< HEAD
-# hello_world
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Matkul : Mobile
+# Matkul : Mobile | Flutter
 
 Semester 5 ^^
 
 1. Install Flutter
 2. UI Sederhana
->>>>>>> dadf301a465689151dff84657250466efe95d81f
+3. Pengenalan Dart [Anbidev](https://www.anbidev.com/dart-pengenalan/)
+4. Functions [Materi](https://jti-polinema.github.io/flutter-codelab/09-pengantar-bahasa-pemrograman-dart-bag-4/)
