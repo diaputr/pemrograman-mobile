@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello_world
 
 A new Flutter project.
@@ -14,3 +15,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Matkul : Mobile
+
+Semester 5 ^^
+
+1. Install Flutter
+2. UI Sederhana
+>>>>>>> dadf301a465689151dff84657250466efe95d81f
